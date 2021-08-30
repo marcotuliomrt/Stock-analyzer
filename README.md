@@ -2,7 +2,7 @@
 Profitability analyzer based on financial indicators
 
 
-# Introduction
+## Introduction
 
 Decisions about stock trading are fundamentally associated with estimating the intrinsic value that the company will have in a given period. This project is based on the hypothesis that it is possible to extract relevant information to carry out these estimates of companies' financial indicators.
 
@@ -10,7 +10,7 @@ The value behind a classifier like this is the standardization of the good inves
 
 
 
-# Goal
+## Goal
 
 This project aims to carry out a systematic analysis of the financial indicators of a given stock and answer the following question: In a period of one month, will a given stock increase in value or not?
 
@@ -18,7 +18,7 @@ Initially, the application of this model was designed to manage a portfolio of s
 
 
 
-# Technique used
+## Technique used
 
 The technique used in this project was the classification of financial indicators by four methods, Multinominal Logistic Regression, Random Forest, Gradient Boosting and a combination of the three previous ones in parallel.
 Why analyze the behavior of financial indicators and not just stock prices?
