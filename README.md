@@ -44,7 +44,7 @@ Like Random Forest, this method is based on a simple and weak model, which, when
 
 
 
-# Database Description
+## Database Description
 
 The database used in this project is composed of financial indicators collected over 34 years (1986-2020) from the Microsoft company. Your file was collected from the Bloomberg Professional Services financial database
 
