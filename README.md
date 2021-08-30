@@ -1,2 +1,2 @@
-# Stock-analyzer-
-Proftability analizer bases on financial indicators 
+# Stock-analyzer
+Profitability analyzer based on financial indicators
